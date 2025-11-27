@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Federico 👋
 
-<!--
-**stimpfldev/stimpfldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Backend & L2/L3 Application Support Engineer**  
+Focused on building and maintaining backend APIs and services with **ASP.NET Core, EF Core and SQL Server**, and handling **L2/L3 incidents, troubleshooting and SQL data fixes** in production environments.
 
-Here are some ideas to get you started:
+### Tech focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: C#, .NET Core, ASP.NET Core / MVC, EF Core
+- Data: SQL Server, T-SQL, Stored Procedures
+- Web: RESTful APIs, Razor, Blazor, JavaScript
+- Production: L2/L3 support, logs analysis, debugging, incident management (Remedy, Jira)
+
+### More about me
+
+- 🌐 Website: https://www.federicostimpfl.com.ar  
+- 💼 LinkedIn: https://www.linkedin.com/in/federicosdev  
+
+Selected projects (coming soon):
+- Personal .NET portfolio
+- ASP.NET Core API with EF Core and SQL Server
