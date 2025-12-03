@@ -13,7 +13,18 @@ Focused on building and maintaining backend APIs and services with **ASP.NET Cor
 ### More about me
 
 - 🌐 Website: https://www.federicostimpfl.com.ar  
-- 💼 LinkedIn: https://www.linkedin.com/in/federicosdev  
+- 💼 LinkedIn: https://www.linkedin.com/in/federicosdev
+
+## 📘 My C# / .NET new book
+
+I wrote a beginner-friendly book to help people start with C# and .NET:
+
+➡️ **INICIACIÓN A C# Y .NET – CÓDIGO FUTURO**  
+Practical foundations for learning programming in .NET from scratch.
+
+🛒 [Buy it on Amazon] https://www.amazon.com/dp/B0G4KP42KZ
+
+
 
 Selected projects (coming soon):
 - Personal .NET portfolio
