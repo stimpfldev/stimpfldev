@@ -1,4 +1,4 @@
-## Hi, I'm Federico 👋
+## Hi, I'm Federico 
 
 **Senior .NET Backend & L2/L3 Application Support Engineer**  
 Focused on building and maintaining backend APIs and services with **ASP.NET Core, EF Core and SQL Server**, and handling **L2/L3 incidents, troubleshooting and SQL data fixes** in production environments.
@@ -15,14 +15,14 @@ Focused on building and maintaining backend APIs and services with **ASP.NET Cor
 - 🌐 Website: https://www.federicostimpfl.com.ar  
 - 💼 LinkedIn: https://www.linkedin.com/in/federicosdev
 
-## 📘 My C# / .NET new book
+## My C# / .NET new book
 
 I wrote a beginner-friendly book to help people start with C# and .NET:
 
-➡️ **INICIACIÓN A C# Y .NET – CÓDIGO FUTURO**  
+ **INICIACIÓN A C# Y .NET – CÓDIGO FUTURO**  
 Practical foundations for learning programming in .NET from scratch.
 
-🛒 [Buy it on Amazon] https://www.amazon.com/dp/B0G4KP42KZ
+ [Buy it on Amazon] https://www.amazon.com/dp/B0G4KP42KZ
 
 
 
