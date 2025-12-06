@@ -19,7 +19,7 @@ Focused on building and maintaining backend APIs and services with **ASP.NET Cor
 
 I wrote a beginner-friendly book to help people start with C# and .NET:
 
- **INICIACIÓN A C# Y .NET – CÓDIGO FUTURO**  
+ **INICIACIÓN A C# Y .NET – C# Y .NET EN LA VIDA REAL**  
 Practical foundations for learning programming in .NET from scratch.
 
  [Buy it on Amazon] https://www.amazon.com/dp/B0G4KP42KZ
