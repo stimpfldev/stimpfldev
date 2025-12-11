@@ -1,7 +1,6 @@
 ## Hi, I'm Federico 
 
-**Senior .NET Backend & L2/L3 Application Support Engineer**  
-Focused on building and maintaining backend APIs and services with **ASP.NET Core, EF Core and SQL Server**, and handling **L2/L3 incidents, troubleshooting and SQL data fixes** in production environments.
+**I’m a Senior .NET Developer based in Buenos Aires, Argentina, focused on backend services, data and system integrations. I mainly work with ASP.NET Core, C#, Entity Framework Core, SQL Server and REST APIs, helping teams build and maintain stable .NET applications and services in production.
 
 ### Tech focus
 
